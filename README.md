@@ -11,4 +11,5 @@
 <h2>Desenvolvedora</h2>
 <div>
   <img src="https://avatars.githubusercontent.com/u/147749821?v=4">
+  <h3>Beatriz Moura</h3>
 </div>
